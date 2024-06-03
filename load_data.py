@@ -24,5 +24,6 @@ def show_heat_map(data_train, show_image=True):
     if show_image is True:
         plt.show()
 
+# If you want to generate heat_map, just uncomment the following code
 # train, test = load_data()
 # show_heat_map(data_train=train)
