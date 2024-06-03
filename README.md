@@ -22,4 +22,4 @@ Academic-Success-Classification/
 +-- train_gpu_logistic_regression.py
 +-- train_gpu_random_forest.py
 ```
-Once the dataset is in place, you're ready to run the code and start exploring the data.
+Once the dataset is in place, you're ready to run the code and train your model.
