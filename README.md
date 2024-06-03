@@ -1,5 +1,8 @@
 # Academic Success Classification
 This repository contains the code for the "Classification-with-an-Academic-Success" competition on Kaggle.
+## Notice
+This repository contains the code for the "Classification-with-an-Academic-Success" competition on Kaggle. Please note that this code is not officially provided by Kaggle or any other official source. It is written by me for reference purposes only. The code may have limitations or errors, and it is the user's responsibility to evaluate and adjust it according to their needs.
+
 ## Dataset
 To download the dataset, execute the following command:
 ```bash
