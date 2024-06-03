@@ -16,7 +16,6 @@ Academic-Success-Classification/
 |   +-- train.csv
 |   +-- test.csv
 |   +-- sample_submission.csv
-|   ...
 +-- load_data.py
 +-- test.py
 +-- train_on_cpu.py
