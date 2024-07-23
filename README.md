@@ -9,6 +9,11 @@ To download the dataset, execute the following command:
 kaggle competitions download -c playground-series-s4e6
 ```
 Alternatively, you can download the dataset from the Kaggle competition page: [Classification with an Academic Success Dataset](https://www.kaggle.com/competitions/playground-series-s4e6/data).
+
+## Packages
+
+Before you run the code by GPU, you need install cuml, follow this website:[RAPIDS Install](https://docs.rapids.ai/install)
+
 ## Getting Started
 Ensure your directory structure is as follows:
 ```
