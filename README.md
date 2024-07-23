@@ -12,7 +12,7 @@ Alternatively, you can download the dataset from the Kaggle competition page: [C
 
 ## Packages
 
-Before you run the code by GPU, you need install cuml, follow this website:[RAPIDS Install](https://docs.rapids.ai/install)
+Before you run the code by GPU, you need install cuml, follow this website: [RAPIDS Install](https://docs.rapids.ai/install)
 
 ## Getting Started
 Ensure your directory structure is as follows:
